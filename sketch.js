@@ -19,7 +19,7 @@ function preload(){
   player1_img = loadAnimation("Images/Sprites/Blue/B1.png", "Images/Sprites/Blue/B2.png", "Images/Sprites/Blue/B3.png", "Images/Sprites/Blue/B4.png", "Images/Sprites/Blue/B5.png");
   player2_img = loadAnimation("Images/Sprites/Red/R1.png", "Images/Sprites/Red/R2.png", "Images/Sprites/Red/R3.png", "Images/Sprites/Red/R4.png", "Images/Sprites/Red/R5.png");
   bg=loadImage("Images/Bg/Morning.jpg")
-  bg1=loadImage("./images/form_bg.jpg")
+  bg1=loadImage("Images/form_bg.jpg")
   flag=loadImage("Images/Sprites/flag.png")
 }
 
